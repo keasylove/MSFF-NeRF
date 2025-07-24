@@ -1,7 +1,7 @@
 # Getting Started
 * Clone our repo:
 ```shell
-git clone --recursive git@github.com:keasylove/MSFF-NeRF.git
+git clone https://github.com/keasylove/MSFF-NeRF.git
 ```
 * Run the setup script to create a conda environment and install the required packages.
 ```shell
